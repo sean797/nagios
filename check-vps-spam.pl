@@ -1,4 +1,5 @@
 #!/usr/bin/perl 
+# Available from https://exchange.nagios.org/directory/Plugins/Email-and-Groupware/Postfix/Check-amount-queued-emails-on-Virtuozzo/details
 
 use Data::Dumper;
 $warnthres = 50000;
